@@ -10,7 +10,8 @@ This project allows you to draw in the air using your hand gestures. The project
 
 # Usage
 - Clone or download the project files.
-
+``git clone https://github.com/projectslist/painter.git
+``    
 - Install the required packages using the following command:
 
 ``pip install opencv-python numpy pyautogui cvzone``
